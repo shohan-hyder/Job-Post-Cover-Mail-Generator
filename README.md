@@ -144,8 +144,8 @@ This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](
 
 If you have any questions, feel free to reach out at:
 
-📧 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/yourusername)
+📧 shohanhyder@gmail.com  
+🔗 [GitHub Profile]([https://github.com/yourusername](https://github.com/shohan-hyder))
 
 ---
 
