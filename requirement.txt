@@ -1,0 +1,8 @@
+langchain_groq 
+langchain_community 
+llama-parse 
+chromadb 
+sentence-transformers 
+python-dotenv
+beautifulsoup4 
+lxml
