@@ -29,7 +29,6 @@ AI-Job-Email-Assistant/
 ├── requirements.txt     # Python dependencies
 ├── CONTRIBUTING.md      # Contribution guidelines
 ├── LICENSE              # MIT License
-└── sample-resume.pdf    # Sample PDF resume (optional)
 ```
 
 ---
